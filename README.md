@@ -1,4 +1,4 @@
-# DailyDVS-200：DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition
+# DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition
 
 
 
