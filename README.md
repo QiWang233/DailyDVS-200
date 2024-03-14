@@ -4,7 +4,7 @@
 ### Baidu Netdisk: [[Datasets Link](xxx)]
 
 <video width="1280" height="960" controls>
-    <source src="video/demo.mp4" type="video/mp4">
+    <source src="video/demo.mov" type="video/mp4">
 </video>
 
 
