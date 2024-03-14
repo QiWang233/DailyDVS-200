@@ -3,5 +3,9 @@
 
 ### Baidu Netdisk: [[Datasets Link](xxx)]
 
+<video width="1280" height="960" controls>
+    <source src="video/demo.mp4" type="video/mp4">
+</video>
 
-Note: The related code will be made publicly available after the acceptance of the paper.
+
+Note: The related code and real datasets link will be made publicly available after the acceptance of the paper.
