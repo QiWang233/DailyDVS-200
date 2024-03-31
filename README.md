@@ -4,7 +4,7 @@
 ### Baidu Netdisk: [[Datasets Link](xxx)][[Models Link](xxx)]
 ### Google Drive: [[Datasets Link](xxx)][[Models Link](xxx)]
 
-Note: The related code and real datasets link will be made publicly available after the acceptance of the paper.
+:notebook_with_decorative_cover: Note: The related code and real datasets link will be made publicly available after the acceptance of the paper.
 
 ## Some Clips of DailyDVS-200:
 
