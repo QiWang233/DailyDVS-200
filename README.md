@@ -14,18 +14,18 @@ Note: The related code and real datasets link will be made publicly available af
 
 
 ## OverView:
-![](./pic/heading5.png)
+<img src="./pic/heading5.png" title="NAME" width="600">
 
-![](./pic//datasets.png)
+<img src="./pic//datasets.png" title="NAME" width="600">
 
 ## Statistics:
-![](./pic/data_static6.png)
+<img src="./pic/data_static6.png" title="NAME" width="600">
 
 ## 14 Attributes:
-![](./pic/group4.png)
+<img src="./pic/group4.png" title="NAME" width="600">
 
 ## Eval results:
-![](./pic/models.png)
+<img src="./pic/models.png" title="NAME" width="600">
 
 
 
