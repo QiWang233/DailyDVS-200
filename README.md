@@ -44,11 +44,11 @@ If you want to do attribution test, select data with corresponding attributes fr
 
 <img src="./pic/result_on_different_datasets.png" /> <br />
 
-**"THU<sup>E-ACT</sup>-50 & THU<sup>E-ACT</sup>-50-CHL"**:see [THU<sup>E-ACT</sup>-50]([lujiaxuan0520/THU-EACT-50: A real-world event-based action recognition benchmark released by the paper "Action Recognition and Benchmark Using Event Cameras" in TPAMI 2023. (github.com)](https://github.com/lujiaxuan0520/THU-EACT-50))
+**"THU<sup>E-ACT</sup>-50 & THU<sup>E-ACT</sup>-50-CHL"**:see [THU<sup>E-ACT</sup>-50]((https://github.com/lujiaxuan0520/THU-EACT-50))
 
-**"Hardvs"**: See [HARDVS]([Event-AHU/HARDVS: [AAAI-2024\] HARDVS: Revisiting Human Activity Recognition with Dynamic Vision Sensors (github.com)](https://github.com/Event-AHU/HARDVS))
+**"Hardvs"**: See [HARDVS](https://github.com/Event-AHU/HARDVS)
 
-**"Bullying10K"**: See [Bullying10K]([Bullying10k Dataset | BrainCog (brain-cog.network)](https://www.brain-cog.network/dataset/Bullying10k/))
+**"Bullying10K"**: See [Bullying10K](https://www.brain-cog.network/dataset/Bullying10k/)
 
 **"DailyDVS-200"**: See [Baidu Netdisk]()
 
