@@ -1,0 +1,45 @@
+# Dataset / Model parameters
+data_dir: your_path_to_dataset
+dataset: our_dvs
+pretrained: False
+num_classes: 200
+num_heads: 8
+img_size: 128
+crop_pct: 1.0
+scale:
+    - 1.0
+    - 1.0
+ratio: [0.2, 1.0]
+color_jitter: 0.
+interpolation: bicubic
+train_interpolation: bicubic
+use_conv_as_linear: True
+pooling_stat: "0011"
+in_channels: 2
+time_steps: 10
+layer: 2
+dim: 256
+mlp_ratio: 4
+hflip: 0.5
+
+# Model Exponential Moving Average
+model-ema: False
+model-ema-decay: 0.9998
+
+# Misc
+seed: 42
+amp: True
+channels-last: False
+batch_size: 4
+val_batch_size: 6
+lr: 1e-3
+min_lr: 2.0e-05
+sched: cosine
+weight_decay: 0.01
+epochs: 200
+cooldown_epochs: 10
+warmup_epochs: 10
+warmup_lr: 1.0e-05
+opt: lamb
+smoothing: 0.1
+workers: 8
