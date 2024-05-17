@@ -42,7 +42,7 @@ If you want to do attribution test, select data with corresponding attributes fr
 
 ## Dataset Download:
 
-<img src="./pic/result_on_different_datasets.png" align='left'/> <br />
+<img src="./pic/result_on_different_datasets.png" /> <br />
 
 **"THU<sup>E-ACT</sup>-50 & THU<sup>E-ACT</sup>-50-CHL"**:see [THU<sup>E-ACT</sup>-50]([lujiaxuan0520/THU-EACT-50: A real-world event-based action recognition benchmark released by the paper "Action Recognition and Benchmark Using Event Cameras" in TPAMI 2023. (github.com)](https://github.com/lujiaxuan0520/THU-EACT-50))
 
@@ -136,5 +136,5 @@ In the DailyDVS-200 Dataset, which is provided in the .aedat4 format, the data i
 
 
 ## Acknowledgement :heart:
-This project is based on  MMaction2 ([code]((https://github.com/open-mmlab/mmaction2))),ESTF ([paper](https://arxiv.org/pdf/2211.09648), [code]((https://github.com/Event-AHU/HARDVS?tab=readme-ov-file))),EST([paper]((https://rpg.ifi.uzh.ch/docs/ICCV19_Gehrig.pdf)),[code]((https://github.com/uzh-rpg/rpg_event_representation_learning))),GET([paper]((https://arxiv.org/abs/2310.02642)),[code]((https://github.com/Peterande/GET-Group-Event-Transformer))),SpikFormer([paper](https://arxiv.org/abs/2401.02020),[code]((https://github.com/ZK-Zhou/spikformer))),SDT([paper](https://openreview.net/forum?id=9FmolyOHi5),[code](https://github.com/BICLab/Spike-Driven-Transformer)). Thanks for their wonderful works.
+This project is based on  MMaction2 ([code](https://github.com/open-mmlab/mmaction2)),ESTF ([paper](https://arxiv.org/pdf/2211.09648), [code](https://github.com/Event-AHU/HARDVS?tab=readme-ov-file)),EST([paper](https://rpg.ifi.uzh.ch/docs/ICCV19_Gehrig.pdf),[code](https://github.com/uzh-rpg/rpg_event_representation_learning)),GET([paper](https://arxiv.org/abs/2310.02642),[code](https://github.com/Peterande/GET-Group-Event-Transformer)),SpikFormer([paper](https://arxiv.org/abs/2401.02020),[code](https://github.com/ZK-Zhou/spikformer)),SDT([paper](https://openreview.net/forum?id=9FmolyOHi5),[code](https://github.com/BICLab/Spike-Driven-Transformer)). Thanks for their wonderful works.
 
