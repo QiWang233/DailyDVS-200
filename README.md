@@ -44,7 +44,7 @@ If you want to do attribution test, select data with corresponding attributes fr
 
 <img src="./pic/result_on_different_datasets.png" /> <br />
 
-**"THU<sup>E-ACT</sup>-50 & THU<sup>E-ACT</sup>-50-CHL"**:see [THU<sup>E-ACT</sup>-50]((https://github.com/lujiaxuan0520/THU-EACT-50))
+**"THU<sup>E-ACT</sup>-50 & THU<sup>E-ACT</sup>-50-CHL"**:see [THU<sup>E-ACT</sup>-50](https://github.com/lujiaxuan0520/THU-EACT-50)
 
 **"Hardvs"**: See [HARDVS](https://github.com/Event-AHU/HARDVS)
 
