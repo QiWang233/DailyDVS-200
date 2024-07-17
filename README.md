@@ -1,4 +1,4 @@
-# [ECCV2024] DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition
+# [ECCV-2024] DailyDVS-200: A Comprehensive Benchmark Dataset for Event-Based Action Recognition
 
 
 ## Abstract:
