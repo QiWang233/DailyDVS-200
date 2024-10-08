@@ -55,6 +55,8 @@ If you want to do attribution test, select data with corresponding attributes fr
 
 **"DailyDVS-200"**: See [Baidu Netdisk](https://pan.baidu.com/s/1mOsW-lzwrPpn0fktqtoa6Q?pwd=g4l9)， [Google Drive](https://drive.google.com/drive/folders/1wJw_unn-oodoQzb-j6-q-IZWU3vehXsV?usp=sharing)
 
+**"DailyDVS-200 [Label about attributes]"**: [Google Drive](https://drive.google.com/file/d/1Eod6eO7EB8qHBDCpX11mClUnYczbXNwp/view?usp=drive_link)
+
 
 
 ## DailyDVS-200 Dataset Format:
